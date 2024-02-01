@@ -1,5 +1,9 @@
 # ISS
 Řešení projektu do předmětu Signály a systémy
+## Osobní hodnocení projektu
+Nejlepší předmět, který jsem zatím při studiu na FITu měl. Profesor Černocký je výborný přednášející a společně se všemi, výbornými, cvičícími tvoří skvělou partu, která ráda pomůže. Předmět jako takový mě velmi zaujal 
+a projekt byla radost dělat. Hodnocení sice trvalo trošku delší dobu, ale vyplatilo se na něj počkat. Opravování je poměrně mírné, takže se není čeho bát. Zkouška patří mezi náročnější, ale pokud člověk tomu věnuje trošku času a snaží se tomu opravdu rozumět, ne se jen naučit jak se  co počítá s cílem hned to po zkoušce zapomenout, tak není problém tento předmět udělat. Je škoda, že je zařazen do ročníku s IFJ, protože všechna pozornost 
+potom odchází tím směrem. Ve výsledku skvělý předmět.
 ## Zadání projektu (stručně)
  - Práce s biomedicínskými signály, přesněji s elektrokardiamem (EKG)
  - Základní filtrace, převzorkování, detekce QRS komplexů pomocí různých metod, porovnání těchto metod mezi sebou, nalezení R-R intervalů, ...
